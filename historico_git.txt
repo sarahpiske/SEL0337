@@ -1,0 +1,17 @@
+commit bf001ae62aca03ef41f2fdde55826e32cbfc2a22
+Author: sarahpiske <sarahpiske@usp.br>
+Date:   Mon Nov 18 11:33:25 2024 -0300
+
+    Adicionando o .gitignore
+
+commit 5dc886231d71ab1d22b2d6d8e5c2e62452058e8a
+Author: sarahpiske <sarahpiske@usp.br>
+Date:   Mon Nov 18 10:56:19 2024 -0300
+
+    Adicionado o README
+
+commit 492285125f7bc7d315a357e0266096e8d6f661a9
+Author: sarahpiske <sarahpiske@usp.br>
+Date:   Mon Nov 18 10:50:21 2024 -0300
+
+    Adicionando os códigos da Prática 5
